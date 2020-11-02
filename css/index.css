@@ -1,1 +1,122 @@
+nav {
+    height: 10vh;
+    widows: 90%;
+    display: flex;
+    margin: auto;
+    background-color: black;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.section {
+    background-color: gray;
+}
+.logo {
+    color: white;
+    font-size: 30px;
+}
+.image1{
+    height: 90vh;
+    text-align: center;
+    justify-content: center;
+    background-image: url(https://scontent.fcdg1-1.fna.fbcdn.net/v/t1.15752-9/123571338_413662552997163_735389379843609376_n.png?_nc_cat=103&ccb=2&_nc_sid=ae9488&_nc_ohc=kZqsdOQGFjIAX8_fo5j&_nc_ht=scontent.fcdg1-1.fna&oh=ac3d0ca0b0d1cdefa157a79cae41c187&oe=5FC595A6);
+    background-size: cover;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.image2{
+    height: 90vh;
+    text-align: center;
+    justify-content:center;
+    background-image: url(https://scontent.fcdg1-1.fna.fbcdn.net/v/t1.15752-9/123604907_695725824700653_624738586494239860_n.png?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=KFtUK7Ch5gYAX8sRJYC&_nc_ht=scontent.fcdg1-1.fna&oh=8f7d10e2f58ba6bddf68209263572cbc&oe=5FC48083);
+    background-size: cover;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+.css3
+{
+    height: 25vh;
+    margin-top: 1000px;
+}
+
+.html5 {
+    height: 25vh;
+    margin-top: 1000px;
+}
+
+.jslogo {
+    height: 25vh;
+    margin-top: 1000px;
+}
+
+.image3 {
+    height: 90vh;
+    text-align:center;
+    justify-content: center;
+    background-image: url(https://wallpaperaccess.com/full/1583396.jpg);
+    background-size: cover;
+    margin-top: -100px;
+    margin-bottom: 0px;
+    font-size: 80px;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.image4 {
+    height: 90vh;
+    text-align: center;
+    justify-content: center;
+    background-image: url(https://scontent.fcdg1-1.fna.fbcdn.net/v/t1.15752-9/123604907_695725824700653_624738586494239860_n.png?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=KFtUK7Ch5gYAX8sRJYC&_nc_ht=scontent.fcdg1-1.fna&oh=5708be0ec93ad26bf446cd8216d87971&oe=5FC48083);
+    background-size: cover;
+    margin-top: -100px;
+    margin-bottom: 0px;
+    font-size: 80px;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+footer {
+    height: 10vh;
+    widows: 90%;
+    display: flex;
+    margin: auto;
+    background-color: black;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.fb {
+    height: 6vh;
+}
+
+.twit {
+    height: 6vh;
+}
+
+/*
+nav {
+    height: 10vh;
+    widows: 90%;
+    display: flex;
+    margin: auto;
+    background-color: black;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid rgba(0,0,0,0.2); 
+} */
+
+ul {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: flex;
+}
+
+li {
+    list-style: none;
+    margin: 10px;
+    margin-right: 10px;
+}
 
